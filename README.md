@@ -1,0 +1,2 @@
+# Banka-Uygulamasi-Priority-ve-Circular-Kuyruklari
+Bu uygulama kapsamında bankaya gelen 20 müşteri bir kuyruk oluşturmaktadır. Her bir müşterinin kendine özel bir müşteri numarası ve 60 - 600 saniye arasında rastgele bir işlem süresi bulunmaktadır. Müşteriler dairesel ve öncelik kuyruklarında ayrı ayrı tutularak işlem süresi dahil ne kadar süre kuyrukta kaldığı ve 20 müşteri için ortalama işlem tamamlanma süresi gibi hesaplamalar yapılmıştır.
