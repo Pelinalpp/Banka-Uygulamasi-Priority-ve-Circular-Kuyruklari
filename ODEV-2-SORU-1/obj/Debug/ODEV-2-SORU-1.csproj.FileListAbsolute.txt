@@ -1,0 +1,30 @@
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.exe.config
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.exe
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.pdb
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV_2_SORU_1.frmSoru1.resources
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV_2_SORU_1.Properties.Resources.resources
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.exe
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.pdb
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.exe.config
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.exe
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.pdb
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.exe
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.pdb
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV_2_SORU_1.frmSoru1.resources
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV_2_SORU_1.Properties.Resources.resources
+C:\Users\Pelin\Desktop\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.exe.config
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.exe
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.exe
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV_2_SORU_1.frmSoru1.resources
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV_2_SORU_1.Properties.Resources.resources
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\ODEV-2-SORU-1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.csproj.GenerateResource.Cache
+C:\Users\AlpPelin\Desktop\Grup41_Uygulama1\ODEV-2-SORU-1\bin\Debug\ODEV-2-SORU-1.exe.config
+C:\Users\AlpPelin\Desktop\Grup41_Uygulama1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.exe
+C:\Users\AlpPelin\Desktop\Grup41_Uygulama1\ODEV-2-SORU-1\obj\Debug\ODEV-2-SORU-1.pdb
